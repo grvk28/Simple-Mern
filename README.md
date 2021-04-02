@@ -1,3 +1,6 @@
 # Simple-Mern project
-npm i
-npm start
+# commands to run:
+# npm i
+# npm start
+
+
